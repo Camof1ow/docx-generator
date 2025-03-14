@@ -27,6 +27,9 @@
     - `pyinstaller --onefile main.py` 명령으로 단일 실행 파일(EXE)을 만들 수 있습니다.
     - EXE만 있으면 Python이나 pip를 설치하지 않아도 로컬 PC에서 애플리케이션을 실행할 수 있습니다.
 
+# 시연영상
+[![동영상 미리보기](https://img.youtube.com/vi/lJAxaF7KZ-I/maxresdefault.jpg)](https://www.youtube.com/watch?v=lJAxaF7KZ-I)
+
 ---
 
 ## 프로젝트 구조 예시
