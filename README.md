@@ -1,6 +1,5 @@
 
-# 프로젝트 이름
-Flask Doc Generator
+# Flask Doc Generator
 
 이 프로젝트는 **Flask**를 이용해 웹 브라우저에서 이미지를 업로드받고, **python-docx**로 Word 문서를 생성한 뒤 다운로드할 수 있도록 해주는 간단한 예시 애플리케이션입니다. 또한, **Bootstrap**으로 기본적인 UI를 꾸몄으며, PyInstaller를 통해 단일 EXE로 패키징할 수 있습니다.
 
